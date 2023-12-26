@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mickeykun01
+- 👋 Hi, I’m Akash Kumar
 - 👀 I’m interested in coding....
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I am a Frontend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aka270101@gmail.com
 
